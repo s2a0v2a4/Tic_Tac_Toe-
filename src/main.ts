@@ -1,5 +1,5 @@
 /*
-
+To dos
 Elemente aus dem DOM auslesen
 Event-Listener (  forEach()...  )
 clicked felder
