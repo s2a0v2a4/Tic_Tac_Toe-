@@ -1,5 +1,5 @@
 /*
-
+To dos
 Elemente aus dem DOM auslesen
 Event-Listener (  forEach()...  )
 clicked felder
@@ -11,7 +11,6 @@ Spiel zurücksetzen (Neustart-Button)
 Hover-Effekt korrekt anzeigen
 Spieldaten LC speichern
 LC laden
-
 */
 
 const spielfelder = document.querySelectorAll<HTMLButtonElement>(".feld");
