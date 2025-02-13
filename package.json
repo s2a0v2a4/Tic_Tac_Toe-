@@ -1,0 +1,21 @@
+{
+  "name": "cs_programming-html-ts-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "license": "UNLICENSED",
+  "author": "Marco Lilli",
+  "type": "module",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "node ./build.js",
+    "build:watch": "node ./build.js --watch"
+  },
+  "devDependencies": {
+    "chokidar": "^4.0.3",
+    "esbuild": "^0.24.2",
+    "fs-extra": "^11.3.0"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
