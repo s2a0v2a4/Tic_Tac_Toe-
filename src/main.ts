@@ -168,7 +168,7 @@ function gewinnCheck() {
 }
 
 function spielZuruecksetzen() {
-    if (!statusAnzeige) return; ////return funktion wenn statusAnzeige nicht existiert
+    if (!statusAnzeige) return; 
 
     spielStand.fill("");
     spielfelder.forEach(feld => {
